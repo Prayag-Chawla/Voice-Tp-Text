@@ -31,3 +31,8 @@ import wave
 
 ## Used By
 The project is used by a lot of speecha nd audio-visual/multimedia companies for manufacturing purposes.
+
+
+##OUTPUT
+![image](https://user-images.githubusercontent.com/92213377/228147602-f480d6f6-2621-4141-943e-9cc669c9c295.png)
+![image](https://user-images.githubusercontent.com/92213377/228148653-5ed4ccf6-13c6-4afc-b1d9-7dd1d7c7d0b2.png)
